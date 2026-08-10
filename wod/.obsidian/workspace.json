@@ -11,10 +11,14 @@
             "id": "82137e77e69ec131",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "RAG原理.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "RAG原理"
             }
           }
         ]
@@ -174,9 +178,19 @@
               "icon": "bot",
               "title": "Claudian"
             }
+          },
+          {
+            "id": "0d2d43e210eb7c1e",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -196,7 +210,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "06cb9a21640d59d3",
+  "active": "0d2d43e210eb7c1e",
   "lastOpenFiles": [
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",

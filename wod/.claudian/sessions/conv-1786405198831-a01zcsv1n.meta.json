@@ -1,0 +1,11 @@
+{
+  "id": "conv-1786405198831-a01zcsv1n",
+  "providerId": "codex",
+  "title": "进行总结",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1786405198833,
+  "lastActivityAt": 1786405198883,
+  "sessionId": null,
+  "selectedModel": "gpt-5.6-terra",
+  "currentNote": "RAG原理.md"
+}
