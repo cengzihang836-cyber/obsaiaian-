@@ -1,10 +1,10 @@
 {
   "id": "conv-1786386163877-edg45ulhp",
   "providerId": "codex",
-  "title": "d",
+  "title": "rag原理",
   "titleGenerationStatus": "failed",
   "createdAt": 1786386163903,
-  "lastActivityAt": 1786386280503,
+  "lastActivityAt": 1786389077042,
   "sessionId": null,
   "selectedModel": "gpt-5.6-terra",
   "currentNote": "未命名.md"

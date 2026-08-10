@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786404520974-sllyx9emw",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786404521033-2e8eb8b",
+      "userTurnOrdinal": 1,
+      "state": "staged",
+      "localMessageId": "msg-1786404520967-8owwal1",
+      "timestamp": 1786404520967,
+      "rawDisplayText": "把copilot里的内容翻译成中文",
+      "canonicalText": "把copilot里的内容翻译成中文",
+      "context": {
+        "currentNote": {
+          "path": "copilot/copilot-custom-prompts/Clip Web Page.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "cf8b4f4a0363381ed9dbeee01a74842891db0d7603458e73d33681720203316b"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786404573048-9ar0rw2",
+      "userTurnOrdinal": 2,
+      "state": "staged",
+      "localMessageId": "msg-1786404573044-53rqt8w",
+      "timestamp": 1786404573044,
+      "rawDisplayText": "进行翻译",
+      "canonicalText": "进行翻译",
+      "images": [],
+      "contentDigest": "e92605b2ef591d9bb2cbeba60261f2289f66efef87ab48b73ea11a57629e6510"
+    }
+  ]
+}
