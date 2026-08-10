@@ -1,10 +1,11 @@
 {
   "id": "conv-1786386163877-edg45ulhp",
   "providerId": "codex",
-  "title": "帮我介绍下rag原理",
+  "title": "d",
   "titleGenerationStatus": "failed",
   "createdAt": 1786386163903,
-  "lastActivityAt": 1786386221551,
+  "lastActivityAt": 1786386280503,
   "sessionId": null,
-  "selectedModel": "gpt-5.6-terra"
+  "selectedModel": "gpt-5.6-terra",
+  "currentNote": "未命名.md"
 }

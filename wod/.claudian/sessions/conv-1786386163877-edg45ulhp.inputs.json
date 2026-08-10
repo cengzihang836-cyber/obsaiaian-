@@ -30,6 +30,23 @@
       "canonicalText": "k",
       "images": [],
       "contentDigest": "6d786e46e959758e3e5b6b94b0f023abcd8eb55027eba247a6ce3dd53523d819"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786386280490-5bnrwt9",
+      "userTurnOrdinal": 1,
+      "state": "staged",
+      "localMessageId": "msg-1786386280453-7ct87hk",
+      "timestamp": 1786386280453,
+      "rawDisplayText": "d",
+      "canonicalText": "d",
+      "context": {
+        "currentNote": {
+          "path": "未命名.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "ab8ce2171952c200b43557c89b471fdddbe72b80d3382a07aa87550b671de56f"
     }
   ]
 }
