@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786386163877-edg45ulhp",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786386163950-1kp3a7q",
+      "userTurnOrdinal": 1,
+      "state": "staged",
+      "localMessageId": "msg-1786386163870-ct1cr4b",
+      "timestamp": 1786386163870,
+      "rawDisplayText": "帮我介绍下rag原理",
+      "canonicalText": "帮我介绍下rag原理",
+      "context": {
+        "currentNote": {
+          "path": "RAG原理.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "4fcf1e8abe657311ff01f694737a7de973dc02a490eab055ee3573ddf793b8d5"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786386221542-yja1y7a",
+      "userTurnOrdinal": 2,
+      "state": "staged",
+      "localMessageId": "msg-1786386221539-7s92ju8",
+      "timestamp": 1786386221539,
+      "rawDisplayText": "k",
+      "canonicalText": "k",
+      "images": [],
+      "contentDigest": "6d786e46e959758e3e5b6b94b0f023abcd8eb55027eba247a6ce3dd53523d819"
+    }
+  ]
+}
