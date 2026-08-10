@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "RAG原理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -210,8 +210,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "0d2d43e210eb7c1e",
+  "active": "06cb9a21640d59d3",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/进行总结@20260811_074057.md",
+    "copilot/copilot-conversations",
+    "copilot",
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
     "copilot/copilot-custom-prompts/Clip Web Page.md",
@@ -231,7 +234,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts",
-    "copilot",
     "未命名.base",
     "未命名 1",
     "未命名 1.canvas",
