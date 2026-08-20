@@ -253,7 +253,7 @@
   "savedProviderThinkingBudget": {},
   "savedProviderPermissionMode": {
     "claude": "yolo",
-    "codex": "yolo"
+    "codex": "normal"
   },
   "pendingProviderSessionInvalidations": {},
   "lastCustomModel": "",

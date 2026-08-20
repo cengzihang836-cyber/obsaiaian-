@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1786405823049-e9gs99s5y",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786405823123-ypy4n20",
+      "userTurnOrdinal": 1,
+      "state": "staged",
+      "localMessageId": "msg-1786405823041-6e6uc3x",
+      "timestamp": 1786405823041,
+      "rawDisplayText": "总结下这篇文稿",
+      "canonicalText": "总结下这篇文稿",
+      "context": {
+        "currentNote": {
+          "path": "RAG原理.md"
+        }
+      },
+      "images": [],
+      "contentDigest": "ce434b6dd47b97d731cebf7129219c3167a2ef72da80002d00a6c790105266b5"
+    }
+  ]
+}
