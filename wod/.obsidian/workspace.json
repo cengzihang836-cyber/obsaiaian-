@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RAG原理.md",
+                "file": "未命名/面试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RAG原理"
+              "title": "面试"
             }
           }
         ]
@@ -210,8 +210,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "06cb9a21640d59d3",
+  "active": "82137e77e69ec131",
   "lastOpenFiles": [
+    "未命名 1/未命名.md",
+    "未命名/面试.md",
+    "RAG原理.md",
     "copilot/copilot-conversations/进行总结@20260811_074057.md",
     "copilot/copilot-conversations",
     "copilot",
@@ -229,7 +232,6 @@
     "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "未命名.md",
-    "RAG原理.md",
     "欢迎.md",
     "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts/Simplify.md",
