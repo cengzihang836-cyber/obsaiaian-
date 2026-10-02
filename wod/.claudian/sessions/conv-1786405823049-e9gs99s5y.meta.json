@@ -1,11 +1,11 @@
 {
   "id": "conv-1786405823049-e9gs99s5y",
   "providerId": "codex",
-  "title": "总结下这篇文稿",
+  "title": "总结",
   "titleGenerationStatus": "failed",
   "createdAt": 1786405823053,
-  "lastActivityAt": 1786405823136,
+  "lastActivityAt": 1787269037129,
   "sessionId": null,
   "selectedModel": "gpt-5.6-terra",
-  "currentNote": "RAG原理.md"
+  "currentNote": "未命名/面试.md"
 }

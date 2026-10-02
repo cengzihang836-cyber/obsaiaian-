@@ -11,14 +11,20 @@
             "id": "82137e77e69ec131",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名/面试.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "83d4f882849482fd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "面试"
+              "title": "新标签页"
             }
           }
         ]
@@ -188,9 +194,19 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "39695874b6bb9fde",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -212,8 +228,9 @@
   },
   "active": "82137e77e69ec131",
   "lastOpenFiles": [
-    "未命名 1/未命名.md",
     "未命名/面试.md",
+    "未命名 2",
+    "未命名 1/未命名.md",
     "RAG原理.md",
     "copilot/copilot-conversations/进行总结@20260811_074057.md",
     "copilot/copilot-conversations",
